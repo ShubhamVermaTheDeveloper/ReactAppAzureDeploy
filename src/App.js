@@ -5,6 +5,7 @@ function App() {
     <div>
       <center>
         <b>Azure app deploy demo</b>
+        <b>Some changes</b>
       </center>
     </div>
   );
